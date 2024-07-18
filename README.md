@@ -2,7 +2,7 @@
 
 Home Budget App is a web application designed to help users manage their personal finances effectively. With this app, you can create budgets, track expenses, and manage various financial activities with ease. The app provides a user-friendly interface and useful features to help you stay on top of your finances.
 
-[DEMO LINK](https://artemvlasiuk.github.io/react-home-budget-app)
+[DEMO LINK](https://react-home-budget-app.vercel.app/)
 
 ## Features:
 
